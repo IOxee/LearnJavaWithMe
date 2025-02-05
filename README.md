@@ -14,7 +14,7 @@
 ## **📌 1️⃣ Java Básico**
 Aprende Java desde cero con ejemplos prácticos.
 
-📌 **[Java Básico en 28 días (INCOMPLETO)](Markdowns/28DaysJavaBasic/README.md)**  
+📌 **[Java Básico en 28 días (INCOMPLETO)](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/28DaysJavaBasic/README.md)**  
 ✔ Variables y Tipos de Datos  
 ✔ Estructuras de Control  
 ✔ Programación Orientada a Objetos (POO)  
@@ -26,7 +26,7 @@ Aprende Java desde cero con ejemplos prácticos.
 ## **📌 2️⃣ Java Avanzado**
 Domina Java con técnicas y patrones avanzados.
 
-📌 **[Java Avanzado en 28 días](Markdowns/28DaysJavaAdvanced/README.md)**  
+📌 **[Java Avanzado en 28 días](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/28DaysJavaAdvanced/README.md)**  
 ✔ Programación Funcional y Streams  
 ✔ Excepciones Personalizadas  
 ✔ Concurrencia y Multithreading  
@@ -34,23 +34,23 @@ Domina Java con técnicas y patrones avanzados.
 ✔ Arquitectura Hexagonal
 
 📌 **Temas específicos de Java avanzado:**
-- 🔹 [Polimorfismo](polimorphism)
-- 🔹 [Anotaciones](Markdowns/Java/Anotaciones.md)
-- 🔹 [Iteradores](Markdowns/Java/Iteradores.md)
-- 🔹 [Patrones de Diseño](Markdowns/Patrones/Patrones.md)
-- 🔹 [Schedulers](Markdowns/Java/Schedulers.md)
-- 🔹 [Streams](Markdowns/Java/Streams.md)
-- 🔹 [Lambdas](Markdowns/Java/Lambdas.md)
-- 🔹 [Concurrencia y Multithreading](Markdowns/Java/concurrenciaMultithreading.md)
-- 🔹 [Hibernate y JPA](Markdowns/Java/hibernate.md)
+- 🔹 [Polimorfismo](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/polimorphism)
+- 🔹 [Anotaciones](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/Anotaciones.md)
+- 🔹 [Iteradores](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/Iteradores.md)
+- 🔹 [Patrones de Diseño](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Patrones/Patrones.md)
+- 🔹 [Schedulers](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/Schedulers.md)
+- 🔹 [Streams](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/Streams.md)
+- 🔹 [Lambdas](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/Lambdas.md)
+- 🔹 [Concurrencia y Multithreading](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/concurrenciaMultithreading.md)
+- 🔹 [Hibernate y JPA](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Java/hibernate.md)
 
 ---
 
 ## **📌 3️⃣ Spring y Frameworks**
 📌 **Desarrollo de aplicaciones empresariales con Spring.**
 
-- 🔹 [Spring Boot](SpringBoot)
-- 🔹 [Autenticación y Autorización con Spring Security](Authentication-Authorization)
+- 🔹 [Spring Boot](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/SpringBoot)
+- 🔹 [Autenticación y Autorización con Spring Security](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Authentication-Authorization)
 
 📌 **Microservicios y APIs REST:**  
 ✔ Spring Boot + Spring Data JPA  
@@ -62,26 +62,26 @@ Domina Java con técnicas y patrones avanzados.
 ## **📌 4️⃣ Versiones LTS de Java**
 📌 **Novedades y cambios en versiones importantes.**
 
-- 🔹 [Java 8](Markdowns/Versions/Java8.md)
-- 🔹 [Java 11](Markdowns/Versions/Java11.md)
-- 🔹 [Java 17](Markdowns/Versions/Java17.md)
-- 🔹 [Java 21](Markdowns/Versions/Java21.md)
+- 🔹 [Java 8](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Versions/Java8.md)
+- 🔹 [Java 11](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Versions/Java11.md)
+- 🔹 [Java 17](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Versions/Java17.md)
+- 🔹 [Java 21](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/Versions/Java21.md)
 
 ---
 
 ## **📌 5️⃣ Buenas Prácticas en Java**
 📌 **Evita errores comunes y mejora tu código.**
 
-- 🔹 [Logging eficiente](Markdowns/BestPractices/Logging.md)
-- 🔹 [Uso de Schedulers](Markdowns/BestPractices/Schedulers.md)
-- 🔹 [Evitar `NullPointerException`](Markdowns/BestPractices/NullPointerException.md)
+- 🔹 [Logging eficiente](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/BestPractices/Logging.md)
+- 🔹 [Uso de Schedulers](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/BestPractices/Schedulers.md)
+- 🔹 [Evitar `NullPointerException`](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/Markdowns/BestPractices/NullPointerException.md)
 
 ---
 
 ## **📌 6️⃣ Arquitecturas de Software en Java**
 📌 **Patrones y estructuras para aplicaciones escalables.**
 
-- 🔹 [Arquitectura Hexagonal](HexagonalEstructure)
-- 🔹 [Domain-Driven Design (DDD)](DDDEstructure)
+- 🔹 [Arquitectura Hexagonal](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/HexagonalEstructure)
+- 🔹 [Domain-Driven Design (DDD)](https://github.com/FirstOnDie/LearnJavaWithMe/blob/main/DDDEstructure)
 
 ---
